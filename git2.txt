@@ -8,7 +8,7 @@ public class LoginDemo extends JFrame implements ActionListener {
    JPasswordField password_text;
    JButton submit, cancel;
    LoginDemo() {
-      // Username Label
+      // Username Label manoj manoj
       user_label = new JLabel();
       user_label.setText("User Name :");
       userName_text = new JTextField();
